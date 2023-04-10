@@ -25,17 +25,21 @@ After the download completes, run the executable.
 Fabric
 ------
 
-Download and extract the repository's zip file. 
+Download and extract this repository's zip file. 
 Run the `fabric.jar` file using Java. 
 Select MineCraft version `1.19.2` keep the rest as default.
 
 Mods
 ----
 
-Open FileExplorer and navigate to you home folder; I.E `C:\Users\YOUNAME\`. 
+Open FileExplorer and navigate to your home folder; I.E `C:\Users\YOUNAME\`. 
 Then turn on show hidden files, and navigate to `AppData\Roaming\.minecraft\versions\`. 
-Open the folder with fabric in it's name. 
-Move the folder `mods` from the repository to this folder.
+Open the folder with `fabric` in it's name. 
+Move the folder `mods` from this repository to the fabric folder.
 
 Playing
 -------
+
+Now launch MineCraft Launcher and select the fabric loader.
+
+Now you can connect to the ip in the discord server.
