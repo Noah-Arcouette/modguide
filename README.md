@@ -25,7 +25,7 @@ After the download completes, run the executable.
 Fabric
 ------
 
-Download and extract this repository's zip file. 
+Download and extract this repository's zip file; Under `Code` then `Download Zip`
 Run the `fabric.jar` file using Java. 
 Select MineCraft version `1.19.2` keep the rest as default.
 
